@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SMD_Restaurant</string>
+    <string name="welcome_to_the_n_eat_spot">Welcome to The\n  Eat Spot</string>
+    <string name="enter_rating_to_add_filter">Enter \'rating\' to add filter</string>
+    <string name="to_add_more_restaurants_click">To Add More, Click</string>
+    <string name="add">Add</string>
+    <string name="restaurant_name">Restaurant name: </string>
+    <string name="category">Category</string>
+    <string name="location">Location</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="enter_category">Enter Category</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="exit">Exit</string>
+    <string name="submit_details">Submit Details</string>
+    <string name="details">Details</string>
+    <string name="phone_no">Phone No:</string>
+    <string name="description">Description</string>
+    <string name="enter_rating">Enter Rating 1-5</string>
+    <string name="rating">Rating</string>
+    <string name="search">Search</string>
+</resources>
